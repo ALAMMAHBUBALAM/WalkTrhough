@@ -1,0 +1,7 @@
+F:\Mahbub\DepartmentStudentApp\DepartmentStudentApp\bin\Debug\DepartmentStudentApp.pdb
+F:\Mahbub\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.csprojResolveAssemblyReference.cache
+F:\Mahbub\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.DepartmentStudentUIcs.resources
+F:\Mahbub\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.csproj.GenerateResource.Cache
+F:\Mahbub\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.pdb
+F:\Mahbub\DepartmentStudentApp\DepartmentStudentApp\bin\Debug\DepartmentStudentApp.exe
+F:\Mahbub\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.exe
